@@ -13,7 +13,6 @@ Para esto, se han realizado las siguientes acciones:
 - Análisis de la Duración del Servicio y Deserción.
 - Relación entre Deserción y Uso del Servicio.
 -Impacto de las Llamadas al Servicio al Cliente en la Deserción.
-- Análisis del Costo de las Llamadas y Churn.
 
 
 
@@ -22,7 +21,7 @@ Conclusiones:
 - No se encontraron datos nulos.
 - El porcentaje de clientes desertados es de 14.5%
 - La mayoría de clientes que han desertado no tienen plan internacional.
-- Los clientes con plan de voice mail tienen menor deserción.
+- Los clientes con plan de voice mail tienen una menor deserción en comparación con los que no tienen.
 - hay una ligera diferencia comparando a los usuarios desertores, por lo que no es concluyente que la trayectoria de estos influya en su permanencia.
 - El promedio de llamadas a servicio al cliente es de 1.4 para personas que cuentan con el servicio activo, y de 2.2 para desertores.
 - Tiende a ser mayor el costo de llamadas diurnas para usuarios desertores.
